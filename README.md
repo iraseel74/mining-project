@@ -7,5 +7,3 @@ Dhai Alanzi 443200619
 
 We are doing a data mining project on this dataset to predict how much alcohol a student may consume
 based on social factors or academic performance.
-The goal is to identify any risks associated with alcohol consumption
-so that students can make more informed and careful choices.
