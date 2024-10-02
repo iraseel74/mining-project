@@ -5,6 +5,7 @@ Raseel Alluhaib 444200585
 Hessah Alotaibi 444200349
 Dhai Alanzi 443200619
 
-we are doing data mining project for this Dataset to see how alcohol use affects students,
-especially in terms of their grades and daily life and family situation.
-The goal is to spot any risks and common features between the consumers hopefully find ways to help students make healthier choices.
+We are doing a data mining project on this dataset to predict how much alcohol a student may consume
+based on social factors or academic performance.
+The goal is to identify any risks associated with alcohol consumption
+so that students can make more informed and careful choices.
