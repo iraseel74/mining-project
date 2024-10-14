@@ -5,5 +5,5 @@ Raseel Alluhaib 444200585
 Hessah Alotaibi 444200349 
 Dhai Alanzi 443200619
 
-We are doing a data mining project on this dataset to predict how much alcohol a student may consume
+We are doing a data mining project on this dataset to predict students grades
 based on social factors or academic performance.
